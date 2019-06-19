@@ -1,0 +1,37 @@
+.wraptablebox{
+	clear:both;
+	display:inline;
+	float:left;
+	margin-bottom:20px;
+	width:100%;
+}
+	.wraptablebox tbody{
+		float:left;
+		clear:both;
+		display: table;
+		width:100%;
+	}
+		.wraptablebox  tr th{
+			background:#ddcba8;
+			border-bottom:2px solid #fffae1;
+			border-right:2px solid #fffae1;
+			color:#464646;
+			font-size:12px;
+			font-weight:bold;
+			text-align:center;
+			padding:4px;
+		}
+			.wraptablebox  tr.altbg td{
+				background:#a08d6a;
+			}
+				.wraptablebox  tr td{
+					background:#7b6c50;
+					border-bottom:2px solid #fffae1;
+					border-right:2px solid #fffae1;
+					color:#fffae1;
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:12px;
+					padding:4px;
+					text-align:center;
+					vertical-align:middle;
+				}

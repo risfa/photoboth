@@ -1,0 +1,55 @@
+/* creby a 6 nov 2009 */
+#ie6nomore{
+	border: 1px solid #F7941D; 
+	background: #FEEFDA; 
+	text-align: center; 
+	clear: both; 
+	height: 75px; 
+	position: relative;
+}
+#ie6nomore #noticeie6nomore{
+	position: absolute; 
+	right: 3px; 
+	top: 3px; 
+	font-family: courier new; 
+	font-weight: bold;
+}
+#ie6nomore #wrapie6nomore{
+	width: 640px; 
+	margin: 0 auto; 
+	text-align: left; 
+	padding: 0; 
+	overflow: hidden; 
+	color: black;
+}
+#ie6nomore #wrapie6nomore .wrapimgwarning{
+	width: 75px; 
+	float: left;
+}
+
+#ie6nomore #wrapie6nomore #infotext{
+	width: 275px; 
+	float: left; 
+	font-family: Arial, sans-serif;
+}
+
+#ie6nomore #wrapie6nomore #infotext .infotxt1{
+	font-size: 14px; 
+	font-weight: bold; 
+	margin-top: 12px;
+}
+
+#ie6nomore #wrapie6nomore #infotext .infotxt2{
+	font-size: 12px; 
+	margin-top: 6px; 
+	line-height: 12px;
+}
+
+#ie6nomore #wrapie6nomore .getthis{
+	width: 75px; 
+	float: left;
+}
+
+.floatleft{
+	float:left;
+}

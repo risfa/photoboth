@@ -1,0 +1,8 @@
+<?php
+include_once "core.php";
+include_once "mysql.php";
+require 'SafeSQL.class.php';
+$db = new ezSQL_mysql('dapps_adminamp','admin5D','dapps_amplified','localhost');
+
+$safesql = new SafeSQL_MySQL;
+?>

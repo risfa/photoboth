@@ -1,0 +1,174 @@
+#wrapall{
+  clear: both;
+  display: inline;
+  float: left;
+  height: auto;
+  width: 1050px;
+}
+  #wrapall .wrapservice{
+    display: inline;
+    float: left;
+    height: 250px;
+    margin-right: 10px;
+    width: 160px;
+  }
+    #wrapall .wrapservice .foto{
+      float: left;
+      font-size: 20px;
+      display: inline;
+      margin-top: 15px;
+      text-align: center;
+      width: 150px;
+    }
+    
+      #wrapall .wrapservice .foto .wrapimg{
+        border:1px solid #000;
+        background: #B5B1B1;
+        clear: both;
+        display:inline;
+        float: left;
+        height:150px;
+        padding: 5px 5px 5px 5px;
+        width: 150px;
+      }
+        #wrapall .wrapservice .foto .wrapimg .boximg{
+          clear: both;
+          float:left;
+          display: inline;
+          height: 150px;
+          position: relative;
+          overflow: hidden;
+          width: 150px;
+        }
+          #wrapall .wrapservice .foto .wrapimg .boximg img{
+            width: 280px;
+          }
+    #wrapall .wrapservice .wrapket{
+      clear: both;
+      display: inline;
+      float: left;
+      text-align: center;
+      margin-top: 10px;
+    }                          
+  
+  #wrapall .panah{
+    background:url(../images/port/arrowright.gif) no-repeat left top;
+    display: inline;
+    float: left;
+    height: 100px;
+    margin: 45px 10px 0 0;
+    width: 100px;
+  }
+  
+  #wrapall .wrapkanan{
+    float: right;
+    display: inline;
+    margin:10px 0 0 0;
+    text-align: center;
+    width: 300px;
+  }
+  
+  #wrapall .wraptable{
+    display: inline;
+    float: left;
+    height: auto;
+    width: 860px;
+  }
+  
+  .wraptable .boxinfo{
+    display: inline;
+    float: left;
+    margin-right: 10px;
+    width: 350px;
+  }
+  
+  .wraptable textarea{
+    margin: 10px 25px 0 0;
+    resize:none
+  }
+  
+  #wrapall .table1{
+    float: left;
+    width:350px;
+    margin:0 30px 0 0;
+  }
+
+  .table1 tr{
+   padding-left:7px;
+  }
+
+  .table1 tr th{
+    width:110px;
+    text-align:center;
+    font-size:12px;
+    font-weight:bold;
+    padding-right:5px;
+    background:#999999;
+    border:1px solid #000000;
+  }
+
+  .table1 tr td {
+    width:110px;
+    background:#CCCCCC;
+    text-align:center;
+    border:1px solid #000000;
+  }
+  
+  #wrapall .table2{
+    float: left;
+    width:350px;
+    margin:10px 30px 0 0;
+  }
+
+  .table2 tr{
+   padding-left:7px;
+  }
+
+  .table2 tr th{
+    width:110px;
+    text-align:center;
+    font-size:12px;
+    font-weight:bold;
+    padding-right:5px;
+    background:#999999;
+    border:1px solid #000000;
+  }
+
+  .table2 tr td {
+    width:110px;
+    background:#CCCCCC;
+    text-align:center;
+    border:1px solid #000000;
+  }
+  
+  
+  .infoship{
+    display: inline;
+    float: left;
+    margin: 35px 0 0 10px;
+    width: 600px;
+  }
+  
+  .tbship{
+    float: left;
+    width:400px;
+    margin:0 30px 0 0;
+  }
+
+  .tbship tr{
+   padding-left:7px;
+  }
+
+  .tbship tr th{
+    width:110px;
+    text-align:left;
+    font-size:12px;
+    font-weight:bold;
+    padding-right:5px; 
+  }
+
+  .tbship tr td {
+    padding: 7px;
+    width:110px;       
+    text-align:left;
+  }

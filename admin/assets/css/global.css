@@ -1,0 +1,300 @@
+﻿html, body{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	line-height: 1.5em;
+	/*text-align: center;*/
+	background-color:#002300;
+	background-repeat:repeat-y;
+	background-position:center top;
+	background-attachment: fixed;
+	color: #fff;
+}
+
+body {
+	margin:auto;
+	padding:0;
+}
+a {
+	text-decoration: none;
+	color: #fff;
+	cursor: pointer;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+img {
+	border: 0;
+	vertical-align: middle;
+}
+
+p {
+	margin: 0 0 10px 0;
+	line-height:12px;
+}
+
+/*=Framework, JANGAN DIEDIT!!!! */
+#container{ /* Pembungkus semua di dalam */
+	clear:both;
+	width:970px;
+	margin: 0 auto;
+}
+
+#wrapisi{
+	clear:both;
+	display:inline;
+	float:left;
+	width:100%;
+}
+
+.wrapinput{
+	clear:both;
+	display:inline;
+	float:left;
+	width:100%;
+}
+	.wrapinput label{
+		display:inline;
+		float:left !important;
+		font-weight:bold;
+		font-size:15px;
+		color:#000;
+		text-align:left;
+		margin-top:12px;
+		width:30%;
+	}
+	
+		.wrapinput input{
+			display:inline;
+			float:left;
+			width:80%;
+		}
+		
+		.btnsubmit{
+			clear:both;
+			display:inline;
+			float:left;
+			margin:20px 0 0 550px;
+		}
+		
+.wrapinput2{
+	clear:both;
+	display:inline;
+	float:left;
+	margin: 0 auto;
+	width:100%;
+}
+	.wrapinput2 label{
+		display:inline;
+		float:left !important;
+		font-weight:bold;
+		font-size:11px;
+		color:#000;
+		text-align:center;
+		margin-top:12px;
+		width:25%;
+	}
+	
+		.wrapinput2 input{
+			display:inline;
+			float:left;
+			width:75%;
+		}
+		
+		.wrapinput2 .btnsubmit{
+			clear:both;
+			display:inline;
+			float:left;
+			margin:20px 0 0 550px;
+		}
+		
+		.wrapinput select.tgl{
+			display:inline;
+			float:left;
+			width:50px;
+		}
+		
+		.wrapradio{
+			display:inline;
+			float:left;
+			margin:10px 0 20px 0;
+			width:100px;
+		}
+		.wrapradio .btnradio{
+			clear:none;
+			display:inline;
+			float:left;
+			width:5px;
+			background:green;
+		}
+		
+		.wrapradio span{
+			color: #85592e;
+			display:inline;
+			float:left;
+			margin:3px  0 0 5px;
+			text-align:left;
+			width:50px;
+		}
+		
+		.wrapradio2{
+			display:inline;
+			float:left;
+			margin:10px 0 0 0;
+			width:50%;
+		}
+		
+
+		.wrapradio2 .btnradio2{
+			clear:none;
+			display:inline;
+			float:left;
+			width:5% !important;
+			background:green;
+		}
+		
+		.wrapradio2 span{
+			color: #85592e;
+			display:inline;
+			float:left;
+			margin:3px  0 0 5px;
+			text-align:left;
+			width:40%;
+		}
+		
+.bottom{
+	margin-bottom:10px;
+}
+
+.width{
+	width:60% !Important;
+}
+
+	/*@media screen and (max-width: 320px){
+		.wrapinput2 label{
+			font-size:12px;
+		}
+		.wrapleft .wrapsponsor .listsponsor li{
+			width:41.5% !important;
+		}
+		
+		.inputleft select.tgl,
+		.inputleft select.bln,
+		.inputleft select.thn{
+			width:31.56% !important;
+		}
+	}
+	
+	@media screen and (min-width: 321px) and (max-width: 480px){
+		.wrapinput2 label{
+			font-size:12px;
+		}
+		.wrapleft .wrapsponsor .listsponsor li{
+			width:43.5% !important;
+		}
+		
+		.inputleft select.tgl,
+		.inputleft select.bln,
+		.inputleft select.thn{
+			width:31.56% !important;
+		}
+	}
+	
+ @media screen and (min-width: 481px) and (max-width: 767px){
+			.wrapinput2 label{
+					width:50% !important;
+			}
+			.wrapinput2 input,
+			.wrapinput2 select,
+			.wrapinput2 .inputleft{
+				width:50% !important;
+			}
+			
+			.inputleft select.tgl,
+			.inputleft select.bln,
+			.inputleft select.thn{
+				width:21.56% !important;
+			}
+			
+			.wrapleft{
+				margin-top:20px;
+			}
+			.wrapleft .wrapsponsor .listsponsor li{
+				width:47.3% !important;
+			}
+	}*/	
+	
+#wrapcontent{
+	clear:both;
+	margin:0 auto;
+	height:100%;
+	width:900px;
+}	
+
+#wrapcontent .boxall{
+	clear:both;
+	display:inline;
+	float:left;
+	width:900px;
+
+}
+	#wrapcontent .boxall .wrapright{
+		display:inline;
+		float:left;
+		width:600px;
+	}
+		
+	#wrapcontent .boxall .wrapleft{
+		display:inline;
+		float:left;
+		width:260px;
+	}
+	
+	#wrapcontent .boxall .wrapright .headerbanner{
+		clear:both;
+		display:inline;
+		float:left;
+		margin-bottom:20px;
+		width:690px;
+		height:300px;
+	}
+	
+	.wrapleft .wrapsponsor{
+		/*background:url(/rfid/admin/assets/images/banner/pocariblue.png) repeat left top;*/
+		background:rgba(255, 255, 255, 1);
+		color:#fff;
+		font-weight:bold;
+		display:inline;
+		float:left;
+		/*-webkit-border-radius: 10px 10px 10px 10px;
+        border-radius: 10px 10px 10px 10px;*/
+		height:100%;
+		margin:0 0 20px 20px;
+		padding:10px;
+		width:100%;
+	}
+	
+	.wrapleft .wrapsponsor h3{
+		color:#fff;
+	}
+	
+	.wrapleft .wrapsponsor .listsponsor{
+		clear:both;
+		display:inline;
+		float:left;
+		margin-top:15px;
+		width:100%;
+	}
+	
+	.wrapleft .wrapsponsor .listsponsor li{
+		display:inline;
+		float:left;
+		margin:10px 0 0 18px;
+		width:100px;
+	}
+	
+	.wrapleft .wrapsponsor .listsponsor li img{
+		width:100px;
+	}
+

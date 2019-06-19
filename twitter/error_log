@@ -1,0 +1,114 @@
+[31-Mar-2014 23:04:48 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wwwlayar/public_html/rfid/twitter/index.php:9) in /home/wwwlayar/public_html/rfid/twitter/index.php on line 29
+[31-Mar-2014 23:12:50 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wwwlayar/public_html/rfid/twitter/index.php:9) in /home/wwwlayar/public_html/rfid/twitter/index.php on line 29
+[31-Mar-2014 23:16:11 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'To get the authorize URL, the OAuth token must be set.' in /home/wwwlayar/public_html/rfid/twitter/src/codebird.php:329
+Stack trace:
+#0 /home/wwwlayar/public_html/rfid/twitter/index.php(27): Codebird\Codebird->oauth_authorize()
+#1 {main}
+  thrown in /home/wwwlayar/public_html/rfid/twitter/src/codebird.php on line 329
+[31-Mar-2014 23:21:21 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wwwlayar/public_html/rfid/twitter/index.php:9) in /home/wwwlayar/public_html/rfid/twitter/index.php on line 31
+[31-Mar-2014 23:26:38 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wwwlayar/public_html/rfid/twitter/index.php:9) in /home/wwwlayar/public_html/rfid/twitter/index.php on line 31
+[01-Apr-2014 12:53:40 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wwwlayar/public_html/rfid/twitter/index.php:9) in /home/wwwlayar/public_html/rfid/twitter/index.php on line 31
+[01-Apr-2014 13:07:16 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wwwlayar/public_html/rfid/twitter/index.php:9) in /home/wwwlayar/public_html/rfid/twitter/index.php on line 31
+[01-Apr-2014 13:08:37 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wwwlayar/public_html/rfid/twitter/index.php:9) in /home/wwwlayar/public_html/rfid/twitter/index.php on line 31
+[01-Apr-2014 13:13:21 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wwwlayar/public_html/rfid/twitter/index.php:9) in /home/wwwlayar/public_html/rfid/twitter/index.php on line 31
+[01-Apr-2014 13:15:23 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wwwlayar/public_html/rfid/twitter/index.php:9) in /home/wwwlayar/public_html/rfid/twitter/index.php on line 31
+[01-Apr-2014 13:39:01 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wwwlayar/public_html/rfid/twitter/index.php:9) in /home/wwwlayar/public_html/rfid/twitter/index.php on line 31
+[01-Apr-2014 13:40:43 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wwwlayar/public_html/rfid/twitter/index.php:9) in /home/wwwlayar/public_html/rfid/twitter/index.php on line 31
+[01-Apr-2014 13:42:43 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wwwlayar/public_html/rfid/twitter/index.php:9) in /home/wwwlayar/public_html/rfid/twitter/index.php on line 31
+[01-Apr-2014 13:43:49 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wwwlayar/public_html/rfid/twitter/index.php:9) in /home/wwwlayar/public_html/rfid/twitter/index.php on line 31
+[01-Apr-2014 13:45:06 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wwwlayar/public_html/rfid/twitter/index.php:9) in /home/wwwlayar/public_html/rfid/twitter/index.php on line 31
+[01-Apr-2014 13:56:50 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wwwlayar/public_html/rfid/twitter/index.php:9) in /home/wwwlayar/public_html/rfid/twitter/index.php on line 30
+[01-Apr-2014 14:07:00 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wwwlayar/public_html/rfid/twitter/index.php:9) in /home/wwwlayar/public_html/rfid/twitter/index.php on line 30
+[01-Apr-2014 14:11:02 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wwwlayar/public_html/rfid/twitter/index.php:9) in /home/wwwlayar/public_html/rfid/twitter/index.php on line 30
+[01-Apr-2014 14:15:04 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wwwlayar/public_html/rfid/twitter/index.php:9) in /home/wwwlayar/public_html/rfid/twitter/index.php on line 30
+[01-Apr-2014 14:15:16 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wwwlayar/public_html/rfid/twitter/index.php:9) in /home/wwwlayar/public_html/rfid/twitter/index.php on line 30
+[01-Apr-2014 14:18:19 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/wwwlayar/public_html/rfid/twitter/index.php on line 70
+[01-Apr-2014 14:18:19 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$screen_name in /home/wwwlayar/public_html/rfid/twitter/index.php on line 71
+[01-Apr-2014 14:18:19 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/wwwlayar/public_html/rfid/twitter/index.php on line 76
+[01-Apr-2014 14:18:43 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wwwlayar/public_html/rfid/twitter/index.php:10) in /home/wwwlayar/public_html/rfid/twitter/index.php on line 29
+[01-Apr-2014 14:19:17 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/wwwlayar/public_html/rfid/twitter/index.php on line 71
+[01-Apr-2014 14:19:17 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$screen_name in /home/wwwlayar/public_html/rfid/twitter/index.php on line 72
+[01-Apr-2014 14:19:17 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/wwwlayar/public_html/rfid/twitter/index.php on line 77
+[01-Apr-2014 14:21:07 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/wwwlayar/public_html/rfid/twitter/index.php on line 74
+[01-Apr-2014 14:21:07 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$screen_name in /home/wwwlayar/public_html/rfid/twitter/index.php on line 75
+[01-Apr-2014 14:21:07 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/wwwlayar/public_html/rfid/twitter/index.php on line 80
+[01-Apr-2014 14:21:14 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/wwwlayar/public_html/rfid/twitter/index.php on line 74
+[01-Apr-2014 14:21:14 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$screen_name in /home/wwwlayar/public_html/rfid/twitter/index.php on line 75
+[01-Apr-2014 14:21:14 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/wwwlayar/public_html/rfid/twitter/index.php on line 80
+[01-Apr-2014 14:25:24 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/wwwlayar/public_html/rfid/twitter/index.php on line 74
+[01-Apr-2014 14:25:24 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$screen_name in /home/wwwlayar/public_html/rfid/twitter/index.php on line 75
+[01-Apr-2014 14:25:24 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/wwwlayar/public_html/rfid/twitter/index.php on line 80
+[01-Apr-2014 22:41:39 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/wwwlayar/public_html/rfid/twitter/index.php on line 74
+[01-Apr-2014 22:41:39 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$screen_name in /home/wwwlayar/public_html/rfid/twitter/index.php on line 75
+[01-Apr-2014 22:41:39 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/wwwlayar/public_html/rfid/twitter/index.php on line 80
+[01-Apr-2014 22:41:51 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/wwwlayar/public_html/rfid/twitter/index.php on line 74
+[01-Apr-2014 22:41:51 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$screen_name in /home/wwwlayar/public_html/rfid/twitter/index.php on line 75
+[01-Apr-2014 22:41:51 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/wwwlayar/public_html/rfid/twitter/index.php on line 80
+[01-Apr-2014 22:50:05 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/wwwlayar/public_html/rfid/twitter/index.php on line 74
+[01-Apr-2014 22:50:05 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$screen_name in /home/wwwlayar/public_html/rfid/twitter/index.php on line 75
+[01-Apr-2014 22:50:05 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/wwwlayar/public_html/rfid/twitter/index.php on line 80
+[01-Apr-2014 22:51:24 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/wwwlayar/public_html/rfid/twitter/index.php on line 77
+[01-Apr-2014 22:51:24 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$screen_name in /home/wwwlayar/public_html/rfid/twitter/index.php on line 78
+[01-Apr-2014 22:51:24 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/wwwlayar/public_html/rfid/twitter/index.php on line 83
+[01-Apr-2014 22:53:46 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/wwwlayar/public_html/rfid/twitter/index.php on line 79
+[01-Apr-2014 22:53:46 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$screen_name in /home/wwwlayar/public_html/rfid/twitter/index.php on line 80
+[01-Apr-2014 22:53:46 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/wwwlayar/public_html/rfid/twitter/index.php on line 85
+[01-Apr-2014 22:54:15 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/wwwlayar/public_html/rfid/twitter/index.php on line 79
+[01-Apr-2014 22:54:15 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$screen_name in /home/wwwlayar/public_html/rfid/twitter/index.php on line 80
+[01-Apr-2014 22:54:15 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/wwwlayar/public_html/rfid/twitter/index.php on line 85
+[01-Apr-2014 23:23:26 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token in /home/wwwlayar/public_html/rfid/twitter/index.php on line 50
+[01-Apr-2014 23:23:26 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token_secret in /home/wwwlayar/public_html/rfid/twitter/index.php on line 51
+[01-Apr-2014 23:23:52 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token in /home/wwwlayar/public_html/rfid/twitter/index.php on line 50
+[01-Apr-2014 23:23:52 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token_secret in /home/wwwlayar/public_html/rfid/twitter/index.php on line 51
+[01-Apr-2014 23:28:01 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token in /home/wwwlayar/public_html/rfid/twitter/index.php on line 50
+[01-Apr-2014 23:28:01 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token_secret in /home/wwwlayar/public_html/rfid/twitter/index.php on line 51
+[01-Apr-2014 23:28:24 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token in /home/wwwlayar/public_html/rfid/twitter/index.php on line 50
+[01-Apr-2014 23:28:24 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token_secret in /home/wwwlayar/public_html/rfid/twitter/index.php on line 51
+[01-Apr-2014 23:33:08 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token in /home/wwwlayar/public_html/rfid/twitter/index.php on line 50
+[01-Apr-2014 23:33:08 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token_secret in /home/wwwlayar/public_html/rfid/twitter/index.php on line 51
+[01-Apr-2014 23:47:38 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token in /home/wwwlayar/public_html/rfid/twitter/index.php on line 50
+[01-Apr-2014 23:47:38 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token_secret in /home/wwwlayar/public_html/rfid/twitter/index.php on line 51
+[04-Apr-2014 17:23:52 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token in /home/limadigi/public_html/rfid/twitter/index.php on line 26
+[04-Apr-2014 17:23:52 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token_secret in /home/limadigi/public_html/rfid/twitter/index.php on line 26
+[04-Apr-2014 17:23:52 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token in /home/limadigi/public_html/rfid/twitter/index.php on line 27
+[04-Apr-2014 17:23:52 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token_secret in /home/limadigi/public_html/rfid/twitter/index.php on line 28
+[04-Apr-2014 17:23:52 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'To get the authorize URL, the OAuth token must be set.' in /home/limadigi/public_html/rfid/twitter/src/codebird.php:329
+Stack trace:
+#0 /home/limadigi/public_html/rfid/twitter/index.php(32): Codebird\Codebird->oauth_authorize()
+#1 {main}
+  thrown in /home/limadigi/public_html/rfid/twitter/src/codebird.php on line 329
+[04-Apr-2014 21:40:51 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token in /home/limadigi/public_html/rfid/twitter/index.php on line 26
+[04-Apr-2014 21:40:51 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token_secret in /home/limadigi/public_html/rfid/twitter/index.php on line 26
+[04-Apr-2014 21:40:51 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token in /home/limadigi/public_html/rfid/twitter/index.php on line 27
+[04-Apr-2014 21:40:51 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token_secret in /home/limadigi/public_html/rfid/twitter/index.php on line 28
+[04-Apr-2014 21:40:51 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'To get the authorize URL, the OAuth token must be set.' in /home/limadigi/public_html/rfid/twitter/src/codebird.php:329
+Stack trace:
+#0 /home/limadigi/public_html/rfid/twitter/index.php(32): Codebird\Codebird->oauth_authorize()
+#1 {main}
+  thrown in /home/limadigi/public_html/rfid/twitter/src/codebird.php on line 329
+[04-Apr-2014 23:34:53 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token in /home/limadigi/public_html/rfid/twitter/index.php on line 26
+[04-Apr-2014 23:34:53 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token_secret in /home/limadigi/public_html/rfid/twitter/index.php on line 26
+[04-Apr-2014 23:34:53 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token in /home/limadigi/public_html/rfid/twitter/index.php on line 27
+[04-Apr-2014 23:34:53 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token_secret in /home/limadigi/public_html/rfid/twitter/index.php on line 28
+[04-Apr-2014 23:34:53 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'To get the authorize URL, the OAuth token must be set.' in /home/limadigi/public_html/rfid/twitter/src/codebird.php:329
+Stack trace:
+#0 /home/limadigi/public_html/rfid/twitter/index.php(32): Codebird\Codebird->oauth_authorize()
+#1 {main}
+  thrown in /home/limadigi/public_html/rfid/twitter/src/codebird.php on line 329
+[04-Apr-2014 23:44:21 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token in /home/limadigi/public_html/rfid/twitter/index.php on line 26
+[04-Apr-2014 23:44:21 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token_secret in /home/limadigi/public_html/rfid/twitter/index.php on line 26
+[04-Apr-2014 23:44:21 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token in /home/limadigi/public_html/rfid/twitter/index.php on line 27
+[04-Apr-2014 23:44:21 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token_secret in /home/limadigi/public_html/rfid/twitter/index.php on line 28
+[04-Apr-2014 23:44:21 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'To get the authorize URL, the OAuth token must be set.' in /home/limadigi/public_html/rfid/twitter/src/codebird.php:329
+Stack trace:
+#0 /home/limadigi/public_html/rfid/twitter/index.php(32): Codebird\Codebird->oauth_authorize()
+#1 {main}
+  thrown in /home/limadigi/public_html/rfid/twitter/src/codebird.php on line 329
+[04-Apr-2014 23:59:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token in /home/limadigi/public_html/rfid/twitter/index.php on line 50
+[04-Apr-2014 23:59:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token_secret in /home/limadigi/public_html/rfid/twitter/index.php on line 51
+[10-Apr-2014 19:42:06 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token in /home/limadigi/public_html/rfid/twitter/index.php on line 50
+[10-Apr-2014 19:42:06 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token_secret in /home/limadigi/public_html/rfid/twitter/index.php on line 51
+[10-Apr-2014 19:45:48 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token in /home/limadigi/public_html/rfid/twitter/index.php on line 50
+[10-Apr-2014 19:45:48 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token_secret in /home/limadigi/public_html/rfid/twitter/index.php on line 51
+[10-Apr-2014 19:46:02 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token in /home/limadigi/public_html/rfid/twitter/index.php on line 50
+[10-Apr-2014 19:46:02 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$oauth_token_secret in /home/limadigi/public_html/rfid/twitter/index.php on line 51

@@ -1,0 +1,67 @@
+#faceboxform{
+	display:none;
+}
+
+.wrapfaceboxform h3.headerfacebox{
+	background:#999999;
+	margin:-10px -10px 10px -10px;
+	height:25px;
+	padding:10px 13px 0 13px;
+	color:#FFFFFF;
+}
+
+.wrapfaceboxform form {
+	margin-left: 8px;
+	padding: 16px 16px 40px 16px;
+	font-weight: normal;
+	-moz-border-radius: 21px;
+	-khtml-border-radius: 21px;
+	-webkit-border-radius: 21px;
+	border-radius: 21px;
+	background: #fff;
+	border: 3px solid #e5e5e5;
+	-moz-box-shadow: rgba(200,200,200,1) 0 4px 18px;
+	-webkit-box-shadow: rgba(200,200,200,1) 0 4px 18px;
+	-khtml-box-shadow: rgba(200,200,200,1) 0 4px 18px;
+	box-shadow: rgba(200,200,200,1) 0 4px 18px;
+}
+
+
+.wrapfaceboxform form .wrapinput{
+	clear:both;
+}
+
+.wrapfaceboxform form .wrapinputb{
+	clear:both;
+	margin-top:15px;
+}
+
+.wrapfaceboxform form .wrapinput label{
+	float:left;
+	clear:both;
+}
+
+input.inputfaceboxtext{
+	clear:both;
+	height:30px;
+	font-size: 22px;
+	background-color: #fbfbfb;
+	border:#e5e5e5 solid 1px;
+}
+
+input.inputfaceboxsub{
+	background:#2683AE;
+	cursor:pointer;
+	float:right;
+	height:26px;
+	border:none;
+	color:#FFFFFF;
+	font-size:15px;
+	padding:0 12px 5px 12px;
+	-moz-border-radius:11px;
+	font-weight:bold
+}
+
+input.inputfaceboxsub:hover{
+	color:#FFFFFF;
+}

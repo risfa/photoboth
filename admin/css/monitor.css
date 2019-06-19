@@ -1,0 +1,192 @@
+html,body{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+
+a, a:hover, a:visited{
+	color:#0065CD;
+	text-decoration:none;
+}
+
+h1{
+	color:#0065CD;
+	clear:both;
+	display:inline;
+	float:left;
+	font-size:15px;
+	margin:10px 1%;
+	text-transform:uppercase;
+}
+
+/*start frmlogin*/
+#frmlogin{
+	background:#eee;
+	border:1px solid #ddd;
+	clear:both;
+	display:inline;
+	float:left;
+	margin:0 10px 10px 10px;
+	padding:5px 10px 10px 10px;
+}
+	#frmlogin div{
+		clear:both;
+		display:inline;
+		float:left;
+		margin:7px 0 0 0;}
+		
+		#frmlogin div span.error{
+			clear:both;
+			color:red;
+			display:inline;
+			float:left;
+			font-size:11px;
+			font-weight:bold;
+			margin:0 0 5px 0;
+			text-align:center;
+			width:265px;}
+		
+		#frmlogin div label{
+			cursor:pointer;
+			clear:both;
+			display:inline;
+			float:left;
+			font-weight:bold;
+			width:120px;}
+		
+		#frmlogin div input{
+			display:inline;
+			float:left;
+			margin:0;}
+		
+		#frmlogin div input.inputrec{
+			border:1px solid #ddd;}
+/*end frmlogin*/
+
+
+/*infomonitor*/
+#infomonitor{
+	background:#eee;
+	border:1px solid #ddd;
+	clear:both;
+	display:inline;
+	float:left;
+	margin:0 0 0 1%;
+	padding:1%;
+	width:96%;
+}
+	#infomonitor ul{
+		clear:both;
+		display:inline;
+		float:left;
+		width:70%;}
+		#infomonitor ul li{
+			clear:both;
+			display:inline;
+			float:left;
+			width:100%;	}
+			#infomonitor ul li strong{
+				display:inline;
+				float:left;
+				width:80px;}
+	
+	#infomonitor a.submenu{
+		display:inline;
+		float:right;
+		margin: 0 0 0 5px;
+	}
+/*end infomonitor*/
+
+
+/*tabelmonitor*/
+table#tabelmonitor{
+	border-top:1px solid #ddd;
+	border-left:1px solid #ddd;
+	clear:both;
+	font-size:11px;
+	margin:5px 0 0 1%;
+	width:98%;	}
+	
+	#tabelmonitor tr{
+		width:100%;}
+	
+	#tabelmonitor tr th,
+	#tabelmonitor tr td{
+		border-bottom:1px solid #ddd;
+		border-right:1px solid #ddd;
+		padding:3px;}
+		
+		#tabelmonitor tr td a{
+			color:#0065CD;
+		}
+		
+	#tabelmonitor tr th{
+		font-weight:bold;
+		text-align:center;
+		text-transform:uppercase;	}
+	
+	#tabelmonitor tr td img{
+		vertical-align:middle;}
+	
+	#tabelmonitor tr td .greentxt,
+	#tabelmonitor tr td .redtxt{
+		padding:0 0 0 2px;
+		margin:0;
+		text-align:left;
+		width:100%;}
+	#tabelmonitor tr td .greentxt{
+		color:#00CC00;}	
+	#tabelmonitor tr td .redtxt{
+		color:red;}
+/*end tabelmonitor*/
+
+
+/*submenu*/
+#submenu{
+	clear:both;
+	display:inline;
+	float:left;
+	margin:5px 0 0 1%;
+	width:98%;
+}
+	#submenu .btnleft{
+		clear:both;
+		display:inline;
+		float:left;
+		width:70%;
+	}
+		#submenu .btnleft a{
+			margin:0 1% 0 0;
+		}
+		#submenu .btnleft a:hover{
+			color:#FF6600;
+		}
+		#submenu .btnleft a.selected{
+			color:#FF6600;
+			font-weight:bold;
+		}
+	
+	#submenu a.btnright{
+		display:inline;
+		float:right;
+	}
+/*end submenu*/
+
+
+/*wrapmenuoption*/
+#wrapmenuoption{
+	clear:both;
+	display:inline;
+	float:left;
+	width:100%;
+}
+	#wrapmenuoption div{
+		clear:both;
+		display:inline;
+		float:left;
+		margin:10px 0 0 0;
+		text-align:center;
+		width:100%;
+	}
+/*end wrapmenuoption*/
+
+

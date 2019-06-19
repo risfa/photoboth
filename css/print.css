@@ -1,0 +1,24 @@
+body {visibility:hidden;}
+
+#page h1,
+#video,
+#start,
+#controls,
+#slot-wrapper,
+#slot,
+.countdown {
+  display:none;
+}
+
+#filmroll {visibility:visible; text-align: center; margin: auto;}
+
+#filmroll h4 { font-family:"Times New Roman",Georgia,Serif; text-shadow: none; }
+
+a.print{
+	background:url(../admin/assets/images/printer.png) no-repeat left top;
+	clear:both;
+	display:inline;
+	float:left;
+	height:200px;
+	width:200px;
+}
